@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Drag-and-drop PageBuilder React App
+
+
+![Img1](https://github.com/ritika-singh2000/PageBuilder/assets/56353471/6add8a35-1ef3-40e6-8755-d34d4193dedc)
+![Img 6](https://github.com/ritika-singh2000/PageBuilder/assets/56353471/cc1c00ae-945c-4310-b67f-fffc311da3b5)
+![Img 5](https://github.com/ritika-singh2000/PageBuilder/assets/56353471/d894c6dc-bc55-4572-b3e6-093b724b9b84)
+![Img 4](https://github.com/ritika-singh2000/PageBuilder/assets/56353471/13498692-fac9-4277-ac1a-9de339532db6)
+![Img 2](https://github.com/ritika-singh2000/PageBuilder/assets/56353471/b4bd27c3-04f0-4be4-ae69-68286f14e738)
+![Img 3](https://github.com/ritika-singh2000/PageBuilder/assets/56353471/4a6bb59b-fba8-4f89-93a4-8e229c53bcbb)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
